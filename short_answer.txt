@@ -1,0 +1,78 @@
+1) What does the `rm` command in the terminal do?
+
+Your answer: to remove
+
+
+------------------
+2) What terminal command would you use to list all the files and folder in the 
+   current directory?
+
+Your answer: ls 
+
+
+------------------
+3) Explain the difference between these two commands in the terminal:
+   
+   $ cd Users
+   $ cd /Users
+
+Your answer: I believe one is saying you're inside the folder "Users" while
+the other is showing the pathway and Users is a folder in the path.
+
+
+------------------
+4) Describe what git is and what it is used for.
+
+Your answer: Git is a version control program that allows companies to keep track
+of project commits and maintain different versions of the software we work on.
+
+
+------------------
+5) Describe what GitHub is and what it is used for.
+
+Your answer: GitHub is more a social platform where one may showcase their work and
+also save or collaborate with others on their projects done.
+
+
+------------------
+6) Which of these commands sets up a new git repository?
+    a) git clone 
+    b) git pull
+    c) git init
+    d) git status
+
+Your answer: C //this initializes the repository
+
+------------------
+7) You want to check that you have properly added all the files you want to be
+   tracked in git BEFORE you make a commit. Which command will do this?
+     a) git push
+     b) git commit
+     c) git status
+     d) git remote
+
+Your answer: C 
+
+
+------------------
+8) What is the difference between `git add` and `git commit`?
+
+Your answer: Commit allows user to save final changes and make it more "official" 
+you can also add messages at this point of what was done and what you did. Git add is a command 
+where you can track files.
+
+
+------------------
+9) What does the `git push` command do?
+
+Your answer: This makes you "push" or put your work onto GitHub into the repository 
+you create to now make public.
+
+
+------------------
+10) When would you use the `git clone` command?
+
+Your answer: This command lets you copy a repository from GitHub to Git so you can have the same 
+files that make the program and work on it on your own.
+
+
