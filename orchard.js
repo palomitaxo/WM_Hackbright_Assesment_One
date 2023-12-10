@@ -64,7 +64,7 @@ for (fujiAcres.length; i++[]) //acre addressed + adding each index together
 
 const averageDailyAcres = (0); //average total being defined 
 
-const totalAcres / 7 === const averageDailyAcres; 
+let totalAcres; / 7 === const averageDailyAcres; 
 //total acres being calculated by dividing 7 days and then saved to const averageDailyAcres
 
 console.log(averageDailyAcres); //total being outputted
